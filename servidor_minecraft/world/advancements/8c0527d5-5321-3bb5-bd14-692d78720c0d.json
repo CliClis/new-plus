@@ -1,0 +1,33 @@
+{
+  "mts:partscanner": {
+    "criteria": {
+      "has_partscanner": "2026-06-21 20:48:58 +0000"
+    },
+    "done": true
+  },
+  "mts:rtfm": {
+    "criteria": {
+      "has_manual": "2026-06-21 20:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-06-21 20:52:52 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2026-06-21 20:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-06-21 20:48:55 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

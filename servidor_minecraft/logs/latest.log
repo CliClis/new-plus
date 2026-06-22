@@ -1,0 +1,199 @@
+[22Jun2026 00:10:16.945] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pepito1234 lost connection: Timed out
+[22Jun2026 00:10:16.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pepito1234 left the game
+[22Jun2026 00:10:16.948] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4ea76ff2-bfc8-3c3f-bc3e-22635fac49f6 was unloaded
+[22Jun2026 00:19:32.946] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@203b1e04
+[22Jun2026 00:19:32.954] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lelan[/10.147.17.35:64922] logged in with entity id 272307 at (-1911.6887057444828, 9.0, -3374.129126449864)
+[22Jun2026 00:19:32.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan joined the game
+[22Jun2026 00:19:32.957] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 00:19:34.750] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 957f1247-d3f6-348a-843e-b84a88f0d431 was loaded
+[22Jun2026 00:19:34.751] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 00:19:34.751] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 00:22:42.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Getting an Upgrade]
+[22Jun2026 00:25:56.795] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: crisbpl lost connection: Disconnected
+[22Jun2026 00:25:56.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl left the game
+[22Jun2026 00:25:56.796] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 585f0afb-b462-3210-9f70-4f7e7d6b9624 was unloaded
+[22Jun2026 00:27:35.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [A Seedy Place]
+[22Jun2026 00:29:38.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@546c20c3
+[22Jun2026 00:29:38.557] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: crisbpl[/10.147.17.189:62185] logged in with entity id 292982 at (-2648.931173889581, 4.0, -2999.5600100565825)
+[22Jun2026 00:29:38.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl joined the game
+[22Jun2026 00:29:38.559] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 00:29:39.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 585f0afb-b462-3210-9f70-4f7e7d6b9624 was loaded
+[22Jun2026 00:29:39.568] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 00:29:39.568] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 00:33:03.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> putaws
+[22Jun2026 00:33:07.492] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5659 in minecraft:the_nether
+[22Jun2026 00:33:07.492] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5659 in minecraft:the_end
+[22Jun2026 00:33:07.532] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5659 in minecraft:overworld
+[22Jun2026 00:45:38.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl has made the advancement [Stone Age]
+[22Jun2026 01:03:14.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Isn't It Iron Pick]
+[22Jun2026 01:04:28.144] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10388 in minecraft:the_nether
+[22Jun2026 01:04:28.144] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10388 in minecraft:the_end
+[22Jun2026 01:04:28.182] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10388 in minecraft:overworld
+[22Jun2026 01:06:03.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl has made the advancement [Hot Stuff]
+[22Jun2026 01:08:21.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl has made the advancement [Fill 'Er Up]
+[22Jun2026 01:16:29.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 01:17:17.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl is bleeding...
+[22Jun2026 01:17:22.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl was slain by Zombie
+[22Jun2026 01:17:22.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 01:17:23.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ServerPlayerEntity['Lelan'/272307, l='ServerLevel[The Zombie Apocalypse 6 Legacy]', x=-1950.88, y=4.56, z=-2593.36]
+[22Jun2026 01:17:24.504] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:17:24.505] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[22Jun2026 01:17:24.511] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:17:24.616] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:17:24.616] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jun2026 01:17:24.618] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:17:24.740] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 01:17:24.741] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 01:17:25.071] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 01:17:25.072] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 01:17:39.596] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8172 in minecraft:the_nether
+[22Jun2026 01:17:39.596] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8172 in minecraft:the_end
+[22Jun2026 01:17:39.633] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8172 in minecraft:overworld
+[22Jun2026 01:17:39.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lelan> awawa
+[22Jun2026 01:18:51.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> xaero-waypoint:expen hotel:E:-1948:9:-2594:2:false:0:Internal-overworld-waypoints
+[22Jun2026 01:30:53.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Immersive Vehicles (MTS)]
+[22Jun2026 01:31:02.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Acquire Hardware]
+[22Jun2026 01:31:47.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Hot Stuff]
+[22Jun2026 01:31:51.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 01:31:56.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 01:31:57.759] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:31:57.759] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Jun2026 01:31:57.761] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:31:57.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 01:31:57.910] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 01:32:44.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> xaero-waypoint:cabaña:C:-1614:11:-2932:3:false:0:Internal-overworld-waypoints
+[22Jun2026 01:37:08.139] [Server thread/INFO] [sereneseasons/]: Season time skipped by 630 in minecraft:the_nether
+[22Jun2026 01:37:08.139] [Server thread/INFO] [sereneseasons/]: Season time skipped by 630 in minecraft:the_end
+[22Jun2026 01:37:08.183] [Server thread/INFO] [sereneseasons/]: Season time skipped by 630 in minecraft:overworld
+[22Jun2026 01:44:34.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl is bleeding...
+[22Jun2026 01:44:50.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 01:45:00.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 01:45:02.259] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:45:02.259] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jun2026 01:45:02.261] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:45:02.443] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 01:45:02.443] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 01:45:05.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl was slain by Zombie
+[22Jun2026 01:45:11.629] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:45:11.629] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jun2026 01:45:11.631] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:45:11.771] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 01:45:11.772] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 01:50:17.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 01:50:55.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl is bleeding...
+[22Jun2026 01:51:55.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl was slain by Zombie
+[22Jun2026 01:51:58.248] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:51:58.249] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jun2026 01:51:58.250] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:51:58.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 01:51:58.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 01:55:18.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 01:56:15.177] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by crisbpl
+[22Jun2026 01:56:18.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 01:56:20.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 01:56:20.737] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jun2026 01:56:20.739] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 01:56:20.895] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 01:56:20.895] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 02:03:38.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 02:04:00.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 02:04:02.071] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 02:04:02.071] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Jun2026 02:04:02.073] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 02:04:02.223] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 02:04:02.223] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 02:08:23.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 02:12:55.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Diamonds!]
+[22Jun2026 02:13:51.640] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: crisbpl was kicked for floating too long!
+[22Jun2026 02:13:51.689] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: crisbpl lost connection: Flying is not enabled on this server
+[22Jun2026 02:13:51.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl left the game
+[22Jun2026 02:13:51.690] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 585f0afb-b462-3210-9f70-4f7e7d6b9624 was unloaded
+[22Jun2026 02:14:10.096] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@550e1139
+[22Jun2026 02:14:10.103] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: crisbpl[/10.147.17.189:63638] logged in with entity id 415502 at (-2047.4552642298074, 63.369570172311924, -3497.03001700054)
+[22Jun2026 02:14:10.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl joined the game
+[22Jun2026 02:14:10.105] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 02:14:10.524] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 585f0afb-b462-3210-9f70-4f7e7d6b9624 was loaded
+[22Jun2026 02:14:10.525] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 02:14:10.525] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 02:16:42.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [Take Aim]
+[22Jun2026 02:23:54.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> vamo
+[22Jun2026 02:24:04.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> shhhhhh
+[22Jun2026 02:24:22.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> hdp
+[22Jun2026 02:25:13.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> tengo miedo lelan
+[22Jun2026 02:25:25.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> canelita pipipipi
+[22Jun2026 02:25:29.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <crisbpl> shhh
+[22Jun2026 02:25:38.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lelan> ok
+[22Jun2026 02:28:26.689] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10430 in minecraft:the_nether
+[22Jun2026 02:28:26.689] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10430 in minecraft:the_end
+[22Jun2026 02:28:26.733] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10430 in minecraft:overworld
+[22Jun2026 02:40:47.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan has made the advancement [What a Deal!]
+[22Jun2026 02:47:39.325] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[22Jun2026 02:52:51.465] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[22Jun2026 03:01:24.641] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8442 in minecraft:the_nether
+[22Jun2026 03:01:24.642] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8442 in minecraft:the_end
+[22Jun2026 03:01:24.683] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8442 in minecraft:overworld
+[22Jun2026 03:12:53.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 03:13:20.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 03:14:20.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by crisbpl
+[22Jun2026 03:14:25.210] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 03:14:25.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[22Jun2026 03:14:25.212] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 03:14:25.408] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 03:14:25.408] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 03:14:37.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl is bleeding...
+[22Jun2026 03:14:44.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl was slain by Zombie
+[22Jun2026 03:14:46.344] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 03:14:46.345] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Jun2026 03:14:46.346] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 03:14:46.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 03:14:46.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 03:16:09.405] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6306 in minecraft:the_nether
+[22Jun2026 03:16:09.405] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6306 in minecraft:the_end
+[22Jun2026 03:16:09.432] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6306 in minecraft:overworld
+[22Jun2026 03:21:56.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl is bleeding...
+[22Jun2026 03:22:40.717] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Lelan
+[22Jun2026 03:22:56.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl was slain by Zombie
+[22Jun2026 03:22:58.488] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 03:22:58.489] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[22Jun2026 03:22:58.490] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 03:22:58.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 03:22:58.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 03:27:10.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 03:27:57.008] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by crisbpl
+[22Jun2026 03:28:10.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 03:28:12.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 03:28:12.285] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Jun2026 03:28:12.286] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 03:28:12.465] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Lelan]
+[22Jun2026 03:28:12.465] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Lelan]
+[22Jun2026 03:29:37.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl is bleeding...
+[22Jun2026 03:29:50.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl was slain by Zombie
+[22Jun2026 03:29:53.995] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jun2026 03:29:53.996] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jun2026 03:29:53.997] [Server thread/INFO] [tac/]: PENDING
+[22Jun2026 03:29:54.155] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [crisbpl]
+[22Jun2026 03:29:54.156] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [crisbpl]
+[22Jun2026 03:30:04.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan is bleeding...
+[22Jun2026 03:30:14.995] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lelan lost connection: Disconnected
+[22Jun2026 03:30:14.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan left the game
+[22Jun2026 03:30:14.996] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 957f1247-d3f6-348a-843e-b84a88f0d431 was unloaded
+[22Jun2026 03:30:14.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lelan was slain by Zombie
+[22Jun2026 03:30:29.198] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6805 in minecraft:the_nether
+[22Jun2026 03:30:29.199] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6805 in minecraft:the_end
+[22Jun2026 03:30:29.233] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6805 in minecraft:overworld
+[22Jun2026 03:30:35.496] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: crisbpl lost connection: Disconnected
+[22Jun2026 03:30:35.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: crisbpl left the game
+[22Jun2026 03:30:35.496] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 585f0afb-b462-3210-9f70-4f7e7d6b9624 was unloaded
+[22Jun2026 03:30:55.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[22Jun2026 03:30:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jun2026 03:30:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jun2026 03:30:55.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jun2026 03:30:55.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Zombie Apocalypse 6 Legacy]'/minecraft:overworld
+[22Jun2026 03:30:55.925] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jun2026 03:30:55.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Zombie Apocalypse 6 Legacy]'/minecraft:the_nether
+[22Jun2026 03:30:55.926] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2026 03:30:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Zombie Apocalypse 6 Legacy]'/minecraft:the_end
+[22Jun2026 03:30:55.928] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jun2026 03:30:55.959] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jun2026 03:30:55.981] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2026 03:30:55.982] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

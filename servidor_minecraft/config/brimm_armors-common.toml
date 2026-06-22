@@ -1,0 +1,11 @@
+
+["Helmet Effects"]
+	helmetEffects = ["concord_h=minecraft:regeneration:1", "gpnvg_h=minecraft:night_vision:0", "ghost_h=minecraft:night_vision:0,minecraft:fire_resistance:0", "killa_h=minecraft:fire_resistance:0"]
+
+["Chestplate Effects"]
+	chestEffects = ["marine=minecraft:water_breathing:0", "medic=minecraft:regeneration:1", "defender_iii=minecraft:fire_resistance:0", "concord=minecraft:fire_resistance:0", "horse=minecraft:fire_resistance:0", "spn=minecraft:fire_resistance:0", "atleti=minecraft:movement_speed:1"]
+
+[Enchantments]
+	thorned = ["nyyyaaaa"]
+	blastProtected = ["saper"]
+
